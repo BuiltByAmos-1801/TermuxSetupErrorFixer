@@ -1,5 +1,3 @@
-Perfect 🔥 Amos!
-Yeh raha complete README.md file — jisme maine Termux se GitHub connect karne, website deploy karne, aur 403 error (permission denied) fix karne ke pure steps clear explanation ke sath likhe hain.
 
 ---
 
